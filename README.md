@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuP0claB
+- 👋 Hi, I’m Miroslav Ivanov
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning JavaScript, Node.js, ReactJS and JAVA 
 - 📫 How to reach me ...
